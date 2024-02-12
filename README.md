@@ -1,7 +1,7 @@
 
 <div dir="auto" style="display: flex; flex-direction: column; align-items: center;" class="markdown-body entry-content container-lg f5" itemprop="text">
   <h1 style="font-size: larger; text-align: center; line-height: 2;"> Hi, I'm Goku, and I need you to help me make <br> <strong>The Genkidama</strong></h1>
-  <p><span>All right, </span> I'm not Goku! But I'm Tales, a Fullstack developer who loves creating web applications, especially for online stores and similar stuff. I'm pretty good with ReactJS and all the modern tools that make the user experience awesome. I also handle backend, database, and API integration quite well. I've worked in agile teams and I'm always up to date with the latest trends. </p>
+  <p><span>All right, </span> I'm not Goku! But I'm Tales, a Fullstack developer who loves creating web applications, especially for online stores and similar stuff. I'm pretty good with ReactJS and all the modern tools that make the user experience awesome. I also handle backend, database, and API integration quite well. I've worked in agile teams and I'm always up to date with the latest trends. And I am also the founder of GuioDev</p>
   <div style="width: 120px; margin-bottom: 3px; align-items: center; display: flex; justify-content: space-between;">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
